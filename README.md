@@ -4,6 +4,7 @@ Sou Desenvolvedor Front-End, sempre em busca de criar interfaces web que sejam t
 
 🛠️ Tecnologias que estou usando:
 <br>
+<br>
 ●<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" width="60px"/> 
 <br>
 ●<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" width="60px"/>
@@ -14,7 +15,9 @@ Sou Desenvolvedor Front-End, sempre em busca de criar interfaces web que sejam t
 <br>
 ●<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="logo-git" width="50px"/>
 <br>
+<br>
 📚 No momento, estou estudando:
+<br>
 <br>
 ●<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" width="65px"/>
 <br>
