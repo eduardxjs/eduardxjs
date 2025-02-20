@@ -24,7 +24,7 @@ Sou Desenvolvedor Front-End, sempre em busca de criar interfaces web que sejam t
 
 📬 Entre em contato:
 <br>
-<a mailto="carloseduardo.webdev@gmail.com"><img src="https://i.pinimg.com/736x/f2/69/98/f269984b729c45a4033de9b61b28c32a.jpg" alt="logo-gmail" width=20px/></a>
+<a><img src="https://i.pinimg.com/736x/f2/69/98/f269984b729c45a4033de9b61b28c32a.jpg" alt="logo-gmail" width=20px/>: carloseduardo.webdev@gmail.com</a>
 <br>
 <a href="https://www.linkedin.com/in/carlos-eduardo-agomes/"><img src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg" alt="linkedin-logo" width=20px/></a>
 
